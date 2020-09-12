@@ -1,6 +1,6 @@
 {
   "name": "mini-webpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "module": "lib/index.js",
@@ -15,7 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/845056166/mini-webpack.git"
   },
-  "keywords": ["test"],
+  "keywords": [
+    "test"
+  ],
   "author": "xiongshiji",
   "license": "ISC",
   "bugs": {
